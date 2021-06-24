@@ -1,0 +1,33 @@
+body {
+  height: 100%;
+}
+.ssContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+  height: 937px;
+  background-image: url(/src/assets/Backgrounds/cover.jpg);
+  background-repeat: repeat;
+}
+.ssTitle {
+  align-self: center;
+  margin-top: -50px;
+}
+.ssCardContainer {
+  height: 470px;
+}
+.ssBackButton {
+  max-width: 71px;
+  align-self: flex-end;
+  margin-bottom: 670px;
+  margin-right: 24px;
+  position: absolute;
+}
+.ssHomeButton {
+  max-width: 71px;
+  align-self: flex-start;
+  margin-bottom: 670px;
+  margin-left: 24px;
+  position: absolute;
+}

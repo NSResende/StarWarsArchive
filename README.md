@@ -1,1 +1,1 @@
-Projeto desenvolvido em React.js, consiste em uma wiki sobre a saga StarWars.
+Uma Wiki sobre a saga StarWars.
